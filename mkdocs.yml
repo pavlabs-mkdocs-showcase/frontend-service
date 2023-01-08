@@ -1,0 +1,7 @@
+site_name: Company X Frontend Docs Site
+theme:
+  name: material
+
+markdown_extensions:
+  - toc:
+      permalink: True
