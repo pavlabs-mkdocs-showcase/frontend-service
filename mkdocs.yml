@@ -5,3 +5,7 @@ theme:
 markdown_extensions:
   - toc:
       permalink: True
+
+plugins:
+  - kroki:
+      FencePrefix: ''
